@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as r,e as a}from"./app.1520a1f9.js";const d=JSON.parse('{"title":"实用工具","description":"","frontmatter":{},"headers":[],"relativePath":"content/tool/link.md"}'),n={name:"content/tool/link.md"},l=a("",2),o=[l];function i(p,s,c,h,_,f){return t(),r("div",null,o)}const g=e(n,[["render",i]]);export{d as __pageData,g as default};
